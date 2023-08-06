@@ -1,0 +1,5 @@
+2023-08-06 05:22:53.252720 - Initialized conversion of CBT585
+2023-08-06 05:22:53.315637 - Received CBT.V505.FILE585.PDS from FILE585.XMI 
+2023-08-06 05:22:53.317859 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE585.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:22:53.318724 - Found @FILE585.txt (text/plain) in CBT.V505.FILE585.PDS, moved to PDS/@FILE585
+2023-08-06 05:22:53.319822 - Found AWSSL.txt (text/plain) in CBT.V505.FILE585.PDS, moved to PDS/AWSSL
